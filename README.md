@@ -14,6 +14,6 @@ pasta-salad.jpg - https://www.allrecipes.com/recipe/14385/pasta-salad/ <br>
 
 ##### Recipes
 
-Egg Salad - https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/ &<br>
+Egg Salad - https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches <br>
 Grilled Cheese - https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/ <br>
 Pasta Salad - https://www.allrecipes.com/recipe/14385/pasta-salad/ <br>
