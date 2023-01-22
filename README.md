@@ -2,7 +2,9 @@
 
 ## Summary
 
-Simple project to showcase fundamental HTML knowledge using recipes, and testing proper commits.
+Simple project to showcase fundamental HTML knowledge using recipes, and testing proper commits. <br>
+
+Live preview - https://scottdark.github.io/odin-recipes/
 
 ## References
 
