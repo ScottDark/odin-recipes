@@ -7,6 +7,12 @@ h1 {
     color: white;
     text-align: center;
 }
+h2{
+    color: white;
+}
+p {
+    color: white;
+}
 ul {
   font-size: 30px;
   font-family: 'Times New Roman', Times, serif;
@@ -18,6 +24,9 @@ ul li {
     display: inline-block;
     align-items: center;
 }
+ol {
+    color: white;
+}
 
 a {
     color: rgb(92, 68, 201);
@@ -25,15 +34,25 @@ a {
 
 /*Images resized on index*/
 
-#grilledcheeseimg {
+#grilledCheese {
     width: 300px;
     height: auto;
 }
-#eggsaladimg {
+#eggSalad {
     width: 250px;
     height: auto;
 }
-#pastasaladimg {
+#pastaSalad {
     width: 300px;
     height: auto;
+}
+
+/*Images resized and centered on recipe pages*/
+
+#grilledcheeserecipe {
+    width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
