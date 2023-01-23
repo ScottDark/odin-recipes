@@ -56,3 +56,17 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
+#eggSaladRecipe {
+    width: 25%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pastaSalad {
+    width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
