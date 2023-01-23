@@ -1,3 +1,4 @@
+/*All pages baseline css*/
 body {
     background-color: rgba(0, 0, 0, 0.89);
 }
@@ -63,10 +64,18 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
-#pastaSalad {
+#pastaSaladRecipe {
     width: 30%;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* Recipe/ingredients lists styled */
+
+.ingredients {
+    color: orange;
+    display: inherit;
+    
 }
