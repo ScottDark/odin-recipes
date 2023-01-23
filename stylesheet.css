@@ -10,12 +10,30 @@ h1 {
 ul {
   font-size: 30px;
   font-family: 'Times New Roman', Times, serif;
+  text-align: center;
 }
 ul li {
     font-weight: 600;
     color: white;
+    display: inline-block;
+    align-items: center;
 }
 
 a {
     color: rgb(92, 68, 201);
+}
+
+/*Images resized on index*/
+
+#grilledcheeseimg {
+    width: 300px;
+    height: auto;
+}
+#eggsaladimg {
+    width: 250px;
+    height: auto;
+}
+#pastasaladimg {
+    width: 300px;
+    height: auto;
 }
