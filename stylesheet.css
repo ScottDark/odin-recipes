@@ -51,21 +51,21 @@ a {
 /*Images resized and centered on recipe pages*/
 
 #grilledCheeseRecipe {
-    width: 30%;
+    width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 #eggSaladRecipe {
-    width: 25%;
+    width: 250px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 #pastaSaladRecipe {
-    width: 30%;
+    width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
